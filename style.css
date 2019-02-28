@@ -2,8 +2,16 @@ body {
     background-color: gold;
 }
 
-.box {
-    height: 50px;
-    width: 50px;
-    border: 2px solid red;
+h1,
+h3,
+h4,
+p,
+li {
+    font-family: 'Muli',
+        sans-serif;
+
+}
+
+h2 {
+    font-weight: 100;
 }
