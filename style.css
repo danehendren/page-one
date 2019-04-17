@@ -10,6 +10,15 @@ li {
     line-height: 1.6;
 }
 
+li {
+    list-style: none;
+}
+
+a:hover {
+    text-decoration: line-through;
+    color: #ffffff;
+}
+
 .home-portion {
     background-color: powderblue;
 }
@@ -19,7 +28,7 @@ li {
 }
 
 .bullet-pts-portion {
-    background-color: royalblue;
+    background-color: rgb(156, 177, 240);
 }
 
 
