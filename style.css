@@ -19,9 +19,9 @@ a:hover {
     color: #ffffff;
 }
 
-.home-portion {
+/* .home-portion {
     background-color: powderblue;
-}
+} */
 
 .about-portion {
     background-color: rgb(155, 197, 70);
@@ -32,10 +32,11 @@ a:hover {
 }
 
 
-/* ========== */
-/* Section */
-/* Contact */
-/* ========== */
 .contact-portion {
     background-color: tomato;
+}
+
+.sized {
+    height: 100%;
+    width: auto;
 }
